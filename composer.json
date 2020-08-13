@@ -1,0 +1,15 @@
+{
+    "name": "ricardoboss/pff-poc",
+    "authors": [
+        {
+            "name": "Ricardo Boss",
+            "email": "contact@ricardoboss.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "require-dev": {
+        "swoole/ide-helper": "@dev"
+    }
+}
